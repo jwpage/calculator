@@ -1,0 +1,23 @@
+{
+  "name": "jquery.calculator",
+  "version": "2.0.1",
+  "description": "jQuery Calculator Plugin",
+  "main": "jquery.calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbwood/calculator.git"
+  },
+  "keywords": [
+    "jquery",
+    "calculator"
+  ],
+  "author": "Keith Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbwood/calculator/issues"
+  },
+  "homepage": "https://github.com/kbwood/calculator#readme"
+}
